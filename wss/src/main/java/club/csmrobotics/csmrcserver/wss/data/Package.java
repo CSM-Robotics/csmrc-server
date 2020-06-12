@@ -1,4 +1,4 @@
-package club.csmrobotics.csmrcserver.wss.domain.data;
+package club.csmrobotics.csmrcserver.wss.data;
 
 import lombok.AllArgsConstructor;
 import lombok.NoArgsConstructor;
