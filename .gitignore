@@ -255,3 +255,4 @@ dist
 
 *.properties
 *.conf
+/gradle/wrapper/gradle-wrapper.jar
